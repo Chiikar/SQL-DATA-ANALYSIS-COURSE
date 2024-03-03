@@ -1,7 +1,7 @@
 #### ![image](https://github.com/Chiikar/SQL-DATAANALYTICS-COURSE-DATA/assets/156119801/62e7de71-a400-4c13-8c89-52fb58b4de05)
 
 
-# SQL COURSE ANALYSIS
+# SQL-COURSE-ANALYSIS
 
 ### DATA UNDERSTANDING AND OBSERVATION
 The dataset is from an SQL data analysis course, in which the data was collated based on the students who registered for the course. My first observation about this dataset is that it includes data on the people who registered for this course over the years. Each column in the dataset represents their ID, start time, completion time, Name, Country/Location, Age group, Occupation/Industry, SQL Experience Level, Preferred learning style, Preferred SQL Database, Availability (Days), Availability (Time), and their Topic of Interest.
